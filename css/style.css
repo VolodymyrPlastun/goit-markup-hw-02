@@ -1,1 +1,8 @@
-
+:root {
+  --BgcMain: #ffffff;
+  --BgcSecondary: #2f303a;
+  --TextColorLogo: #2196f3;
+  --TextColorMain: #212121;
+  --TextColorSec: #757575;
+  --TextColorWhite: #ffffff;
+}
