@@ -54,15 +54,11 @@ body {
   color: var(--text-color-main);
 }
 .contacts-nav .link:focus,
-.contacts-nav .filter-button:hover {
+.contacts-nav .link:hover {
   color: var(--text-color-logo);
 }
 /* Studio */ /* hero */
 .hero {
-  width: 1600px;
-  height: 600px;
-  left: 0px;
-  top: 80px;
   background: var(--herobgc);
 }
 .hero-title {
@@ -116,10 +112,6 @@ body {
 
 /* footer */
 .footer {
-  width: 1600px;
-  height: 252px;
-  left: 0px;
-  top: 2097px;
   background: var(--herobgc);
 }
 .adress {
@@ -149,7 +141,6 @@ body {
 
 .filter-button {
   cursor: pointer;
-  font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
